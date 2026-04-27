@@ -32,7 +32,6 @@ vim.list_extend(ensure_installed, {
 	"jsonlint",
 	"stylelint",
 	"eslint",
-	"yamllint",
 })
 require("mason-tool-installer").setup({ ensure_installed = ensure_installed })
 

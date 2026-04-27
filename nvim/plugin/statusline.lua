@@ -5,6 +5,6 @@ require("lualine").setup({
 		disabled_filetypes = { "neo-tree" },
 	},
 	sections = {
-		lualine_x = { "encoding", "filetype" },
+		lualine_x = { "encoding", { "filetype", icons_enabled = false } },
 	},
 })

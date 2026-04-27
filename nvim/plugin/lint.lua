@@ -6,7 +6,6 @@ lint.linters_by_ft = {
 	eslint = { "eslint" },
 	json = { "jsonlint" },
 	markdown = { "markdownlint" },
-	yaml = { "yamllint" },
 }
 
 -- Create autocommand which carries out the actual linting on specified events.
