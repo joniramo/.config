@@ -1,3 +1,3 @@
-# .config
+# dotfiles
 
-⚡️ Tooling configuration for terminal-based development.
+⚡️ Configuration files for local tools and terminal-based development.
